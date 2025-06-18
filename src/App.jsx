@@ -28,7 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p className="text-red-400 font-bold mt-10">Tailwind is working.</p>
+      {/* <p className="text-red-400 font-bold mt-10">Tailwind is working.</p> */}
     </>
   )
 }
