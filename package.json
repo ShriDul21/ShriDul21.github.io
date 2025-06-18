@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "ShriDul21.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,4 +29,3 @@
     "vite": "^6.3.5"
   }
 }
-
